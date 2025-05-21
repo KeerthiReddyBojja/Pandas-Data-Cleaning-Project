@@ -1,7 +1,10 @@
 # Pandas Data Cleaning Project
 ## Table of Contents
+
 • [Introduction](https://github.com/KeerthiReddyBojja/Pandas-Data-Cleaning-Project?tab=readme-ov-file#introduction)
+
 • [Dataset Overview](https://github.com/KeerthiReddyBojja/Pandas-Data-Cleaning-Project?tab=readme-ov-file#dataset-overview)
+
 • [Data Cleaning Steps](https://github.com/KeerthiReddyBojja/Pandas-Data-Cleaning-Project?tab=readme-ov-file#data-cleaning-steps)
 
 ## Introduction
